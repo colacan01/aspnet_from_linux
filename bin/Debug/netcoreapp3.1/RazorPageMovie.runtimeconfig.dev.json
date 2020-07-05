@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/colacan/.dotnet/store/|arch|/|tfm|",
+      "/home/colacan/.nuget/packages"
+    ]
+  }
+}
